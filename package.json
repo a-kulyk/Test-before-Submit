@@ -1,0 +1,17 @@
+{
+  "name": "test_before_submit",
+  "version": "1.0.0",
+  "description": "Validate data before submit",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "nodemon server.js"
+  },
+  "author": "Andrii Kulyk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  }
+}
